@@ -1,0 +1,28 @@
+<html>
+<Head>
+<Title>...:::Ayudar en mi Comunidad:::...</title
+<lautor: Daniel Oswaldo González, Codigo: GG23004.
+
+</head>
+<Body bgcolor="BLACK"
+
+<<HR WIDTH=50% SIZE=10% COLOR="WHITE">>
+<FONT Size=7 color="WHITE"
+
+
+
+
+<h1><CENTER>COMO AYUDAR EN MI COMUNIDAD?</h1></CENTER> 
+<H5><CENTER>"Quieres contribuir al desarrollo social de tu comunidad y no sabes como"?</H5></CENTER> 
+<br>
+<br>
+
+
+
+
+
+
+
+
+</BODY>
+</HTML>

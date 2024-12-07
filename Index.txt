@@ -1,0 +1,20 @@
+<html>
+<Head>
+<Title>ENLACES</title
+<lautor: Daniel Oswaldo González, Codigo: GG23004.
+
+</head>
+<Body bgcolor="BLACK"
+
+<<HR WIDTH=70% SIZE=10% COLOR="WHITE">>
+<FONT Size=7 color="WHITE"
+<h1> COMO AYUDAR EN MI COMUNIDAD</h1>
+
+<br>
+<br>
+
+
+
+
+</BODY>
+</HTML>
